@@ -8,5 +8,6 @@ When presenting your final localization workflow setup, you should demonstrate:
 - that modification to this file will trigger the automated workflow
 - how your automated setup actually works, by guiding us through the process of localizing the changes made in the previous step
 - how finishing the localization of the changes propagate to the GitHub repository
+- what were your pain points and which areas of the process would you try to improve
 
 You can modify this sentence to demostrate how a change of this file triggers the automated localization workflow.
