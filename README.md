@@ -10,4 +10,4 @@ When presenting your final localization workflow setup, you should demonstrate:
 - how finishing the localization of the changes propagate to the GitHub repository
 - what were your pain points and which areas of the process would you try to improve
 
-I have modified this sentence one more time to demostrate how a change of this file triggers the automated localization workflow.
+I have modified this sentence one more time to demostrate how a change of this file triggers the automated localization workflow. Too many changes at the same time.
