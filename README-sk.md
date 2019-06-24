@@ -5,4 +5,4 @@ Vaším cieľom je nastaviť plne automatizované workflow lokalizácia v Progra
 
 Pri predložení konečného nastavení lokalizácia pracovného postupu, mali by ste preukázať: - svoje celé nastavenia v Program mentoringu MemSource - že modifikácie tohto súboru spustí automatický pracovný postup - ako vaše automatizované nastavenie skutočne funguje, by nás vedie cez proces lokalizácie vykonané zmeny v predchádzajúci krok - ako dokončenie lokalizácia zmeny šíri do GitHub úložiska - aké boli vaše bolesti body, a ktoré oblasti procesu by ste sa snaží zlepšiť
 
-Som upravil túto vetu demonštrovať, ako zmena tohto súboru spustí automatické lokalizácie pracovného postupu. Príliš veľa zmien, niektoré deje, zatiaľ čo súbor je stále preložený. Čo sa bude diať? To fungovalo. Skúsme ešte raz.
+Tu je úplne nová veta.
