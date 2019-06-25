@@ -1,4 +1,4 @@
-# Localization Homework 5
+# Localization Homework CJ test
 This simple projects serves as a starting point for you homework assignment. **Please start by forking this repository into your own GitHub account.**
 
 Your goal is to setup a fully automated localization workflow in Memsource that will localize this **README.md** file into at least two languages of your choice. The localization workflow should include translation by MT engine as well as human post-editing. Assume you have two linguists, one for each language combination. Use of Translation Memory is a good practice.
@@ -10,4 +10,4 @@ When presenting your final localization workflow setup, you should demonstrate:
 - how finishing the localization of the changes propagate to the GitHub repository
 - what were your pain points and which areas of the process would you try to improve
 
-Here is a completely new sentence.
+Something else that got changed.
