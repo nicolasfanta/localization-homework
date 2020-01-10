@@ -1,0 +1,32 @@
+# Translators:
+# Jano Jaroscak <svesticky3@yahoo.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Lingohub 1.0.1\n"
+"Report-Msgid-Bugs-To: support@lingohub.com\n"
+"Last-Translator: Jano Jaroscak <svesticky3@yahoo.com>, 2020\n"
+"Language-Team: Slovak (Slovakia) (https://www.transifex.com/sobrance-sk/teams/105987/sk_SK/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "Let’s make the web multilingual."
+msgstr "CS 1"
+
+msgid ""
+"We connect developers and translators around the globe on Lingohub for a "
+"fantastic localization experience."
+msgstr "CS 2"
+
+msgid "Welcome back, %1$s! Your last visit was on %2$s"
+msgstr "CS 4"
+
+msgid "%d page read."
+msgid_plural "%d pages read."
+msgstr[0] "1"
+msgstr[1] "CA5"
+msgstr[2] "CS5"
+msgstr[3] "CS5 %d"
